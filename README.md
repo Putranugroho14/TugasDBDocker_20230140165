@@ -6,7 +6,8 @@ CONTAINER
 HALAMAN SENDIRI
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3543d95e-3e87-4054-ae46-50e8a77daed2" />
 HALAMAN TEMAN
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/7cf784d8-2c6d-4ca8-b9f6-12705c7e7f13" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5693f7fd-6dea-4717-a4fc-2595d6cf3826" />
+
 
 
 
